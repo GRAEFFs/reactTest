@@ -9,7 +9,7 @@ var Home = React.createClass({
    render: function () {
        return (
            <div className="jumbotron">
-               <h1>Administração</h1>
+               <h1>asd</h1>
                <p>React for web</p>
            </div>
        );
