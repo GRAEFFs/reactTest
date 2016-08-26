@@ -3,7 +3,7 @@
  */
 "use strict";
 
-var react = require('react');
+var React = require('react');
 
 var Home = React.createClass({
    render: function () {
@@ -15,3 +15,5 @@ var Home = React.createClass({
        );
    }
 });
+
+module.exports = Home;
